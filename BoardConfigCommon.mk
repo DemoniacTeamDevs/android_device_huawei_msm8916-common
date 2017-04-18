@@ -105,7 +105,7 @@ TARGET_UNIFIED_DEVICE := true
 
 # Kernel
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-eabi-
-KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/linux-x86/arm/arm-eabi-6.0/bin
+KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/linux-x86/arm/arm-eabi-6.2/bin
 
 # SDClang
 TARGET_USE_SDCLANG := true
